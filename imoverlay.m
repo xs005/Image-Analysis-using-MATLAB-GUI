@@ -71,4 +71,4 @@ out_blue(mask)  = color_uint8(3);
 
 % Form an RGB truecolor image by concatenating the channel matrices along
 % the third dimension.
-out = cat(3, out_red, out_green, out_blue);
+out = cat(3, out_red, out_green, out_blue); 
