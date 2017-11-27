@@ -22,7 +22,7 @@ function varargout = project(varargin)
 
 % Edit the above text to modify the response to help project
 
-% Last Modified by GUIDE v2.5 04-Dec-2014 19:07:46
+% Last Modified by Xiaoquan Sun 04-Dec-2014 19:07:46
 
 % Begin initialization code - DO NOT EDIT
 gui_Singleton = 1;
